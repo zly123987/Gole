@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.apache.directory.shared</groupId>
-      <artifactId>shared-ldap-client-all</artifactId>
-      <version>1.0.0-M11</version>
+      <groupId>org.eurekaclinical</groupId>
+      <artifactId>eureka-protempa-etl</artifactId>
+      <version>3.0-Alpha-22</version>
     </dependency>
   </dependencies>
 </project>
