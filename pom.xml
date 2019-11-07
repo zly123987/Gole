@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>dummypaul</groupId>
+  <groupId>dummypau0l</groupId>
   <artifactId>app</artifactId>
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.eurekaclinical</groupId>
-      <artifactId>eureka-protempa-etl</artifactId>
-      <version>3.0-Alpha-22</version>
+      <groupId>de.otto</groupId>
+      <artifactId>flummi</artifactId>
+      <version>2.0.24.1</version>
     </dependency>
   </dependencies>
 </project>
