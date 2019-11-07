@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>dummypau0l</groupId>
+  <groupId>dummypaul</groupId>
   <artifactId>app</artifactId>
   <version>1</version>
   <dependencies>
@@ -9,5 +9,12 @@
       <artifactId>flummi</artifactId>
       <version>2.0.24.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.directory.shared</groupId>
+      <artifactId>shared-ldap-client-all</artifactId>
+      <version>1.0.0-M11</version>
+    </dependency>
   </dependencies>
+  
+  
 </project>
