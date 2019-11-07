@@ -5,15 +5,16 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>de.otto</groupId>
-      <artifactId>flummi</artifactId>
-      <version>2.0.24.1</version>
-    </dependency>
-    <dependency>
       <groupId>org.apache.directory.shared</groupId>
       <artifactId>shared-ldap-client-all</artifactId>
       <version>1.0.0-M11</version>
     </dependency>
+    <dependency>
+      <groupId>de.otto</groupId>
+      <artifactId>flummi</artifactId>
+      <version>2.0.24.1</version>
+    </dependency>
+
   </dependencies>
   
   
