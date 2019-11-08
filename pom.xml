@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.sonatype.nexus</groupId>
-      <artifactId>nexus-pax-exam</artifactId>
-      <version>3.3.0-01</version>
+      <groupId>org.ow2.easybeans</groupId>
+      <artifactId>easybeans-jpa-openjpa-glue</artifactId>
+      <version>1.0.2</version>
     </dependency>
 
 
