@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.ow2.easybeans</groupId>
-      <artifactId>easybeans-jpa-openjpa-glue</artifactId>
-      <version>1.0.2</version>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>kinesisvideo</artifactId>
+      <version>2.5.32</version>
     </dependency>
 
 
