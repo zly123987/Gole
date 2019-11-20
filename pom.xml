@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>com.pdf4me</groupId>
-      <artifactId>pdf4me</artifactId>
-      <version>0.8.0</version>
+      <groupId>com.lihaoyi</groupId>
+      <artifactId>ammonite-repl_2.13.0</artifactId>
+      <version>1.7.4-0-cdefbd9</version>
     </dependency>
 
 
