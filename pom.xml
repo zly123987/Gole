@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>dev.zio</groupId>
-      <artifactId>zio_0.19</artifactId>
-      <version>1.0.0-RC14</version>
+      <groupId>com.pdf4me</groupId>
+      <artifactId>pdf4me</artifactId>
+      <version>0.8.0</version>
     </dependency>
 
 
