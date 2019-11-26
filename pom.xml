@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>com.pdf4me</groupId>
-      <artifactId>pdf4me</artifactId>
-      <version>0.8.0</version>
+      <groupId>org.opendaylight.openflowplugin.applications</groupId>
+      <artifactId>notification-supplier</artifactId>
+      <version>0.3.0-Boron</version>
     </dependency>
 
 
