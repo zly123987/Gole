@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.wso2.carbon.apimgt</groupId>
-      <artifactId>org.wso2.carbon.apimgt.gateway</artifactId>
-      <version>6.5.198</version>
+      <groupId>dev.zio</groupId>
+      <artifactId>zio_0.19</artifactId>
+      <version>1.0.0-RC14</version>
     </dependency>
 
 
