@@ -5,9 +5,9 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>org.opendaylight.openflowplugin.applications</groupId>
-      <artifactId>notification-supplier</artifactId>
-      <version>0.3.0-Boron</version>
+      <groupId>org.eclipse.dirigible</groupId>
+      <artifactId>dirigible-ide-ui-security</artifactId>
+      <version>3.5.2</version>
     </dependency>
 
 
