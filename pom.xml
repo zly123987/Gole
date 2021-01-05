@@ -7,7 +7,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-licensemanager</artifactId>
-      <version>1.11.648</version>
+      <version>1.11.931</version>
     </dependency>
 
 
